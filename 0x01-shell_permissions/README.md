@@ -1,1 +1,1 @@
-This is a readme
+(1) The first script chnages user to betty (2)
